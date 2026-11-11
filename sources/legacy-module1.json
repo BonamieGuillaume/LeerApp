@@ -1,0 +1,1576 @@
+{
+  "id": "m1",
+  "title": "Verzekeringsdistributie in België",
+  "contentVersion": "2026-11-09-guide-v1",
+  "sourceDate": "2026-11-09",
+  "sourceTitle": "Studiegids Module 1 verzekeringsdistributie België",
+  "sourceType": "Onafhankelijk geschreven studiegids; geen officiële syllabus of officiële proefexamenset.",
+  "sourceFile": "/studiegids-module-1.pdf",
+  "sourcePageCount": 20,
+  "chapters": [
+    {
+      "id": "m1-h01",
+      "number": 1,
+      "title": "Markt, toezicht en Europa",
+      "part": "1.1",
+      "pages": [
+        3
+      ],
+      "learningObjectives": [
+        "Leg uit: de belgische verzekeringsmarkt.",
+        "Leg uit: distributiekanalen.",
+        "Leg uit: nbb, fsma en europees paspoort.",
+        "Leg uit: praktijkvoorbeeld."
+      ],
+      "sections": [
+        {
+          "id": "m1-h01-s01",
+          "title": "De Belgische verzekeringsmarkt",
+          "body": "Verzekering is een mechanisme waarbij een verzekeraar tegen een premie een omschreven onzeker risico op zich neemt. De verzekeraar bundelt risico’s van veel verzekerden. Een multibrancheverzekeraar biedt verschillende verzekeringstakken aan; een gespecialiseerde verzekeraar richt zich op een beperkt domein. Internationalisering en financiële groepen verklaren waarom banken en verzekeraars soms binnen één groep opereren.",
+          "pages": [
+            3
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h01-s02",
+          "title": "Distributiekanalen",
+          "body": "(1) niet-exclusieve bemiddeling, bijvoorbeeld een makelaar die met verschillende verzekeraars werkt; (2) exclusieve netwerken, bijvoorbeeld een agent die contractueel voor een of meer bepaalde verzekeraars werkt; (3) rechtstreekse verkoop door de verzekeraar, zonder onafhankelijke tussenpersoon. Een bankkanaal kan met deze modellen gecombineerd worden.",
+          "pages": [
+            3
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h01-s03",
+          "title": "NBB, FSMA en Europees paspoort",
+          "body": "De Nationale Bank van België (NBB) waakt onder meer over de prudentiële en financiële soliditeit van verzekeringsondernemingen. De FSMA houdt onder meer toezicht op verzekeringsdistributie, tussenpersonen, informatieverplichtingen en gedragsregels. Verwar het solvabiliteitstoezicht niet met toezicht op de manier waarop een product wordt verkocht. Het Europees paspoort / Single License laat, onder de geldende voorwaarden, activiteiten in andere EER-landen toe. Home Country Control houdt in dat het land van herkomst een centrale toezichtsrol heeft; regels van het gastland kunnen daarnaast relevant blijven.",
+          "pages": [
+            3
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h01-s04",
+          "title": "Praktijkvoorbeeld",
+          "body": "Een makelaar vergelijkt woonverzekeringen van drie maatschappijen. Dit is niet-exclusieve distributie. Een verzekeraar die op zijn eigen website rechtstreeks autopolissen verkoopt, gebruikt directe distributie.",
+          "pages": [
+            3
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h02",
+      "number": 2,
+      "title": "Verzekeringsovereenkomst en basisbegrippen",
+      "part": "1.1",
+      "pages": [
+        3,
+        4
+      ],
+      "learningObjectives": [
+        "Leg uit: wettelijk kader en dwingend recht.",
+        "Leg uit: wezenlijke bestanddelen.",
+        "Leg uit: wie is wie?.",
+        "Leg uit: twee verschillende indelingen."
+      ],
+      "sections": [
+        {
+          "id": "m1-h02-s01",
+          "title": "Wettelijk kader en dwingend recht",
+          "body": "Voor Belgische landverzekeringsovereenkomsten is vooral de wet van 4 april 2014 betreffende de verzekeringen belangrijk, in het bijzonder deel 4. Andere verzekeringscontracten kunnen onder andere bepalingen vallen. Dwingend recht betekent dat partijen er in beginsel niet contractueel van mogen afwijken waar de wet dit uitsluit; de precieze beschermingsrichting hangt van de bepaling af.",
+          "pages": [
+            3
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h02-s02",
+          "title": "Wezenlijke bestanddelen",
+          "body": "Een verzekeringsovereenkomst vereist een onzeker voorval of risico, een premie en een verbintenis van de verzekeraar om bij de verzekerde gebeurtenis een overeengekomen prestatie te leveren. De overeenkomst moet bovendien voldoen aan toepasselijke geldigheidsvereisten. Ontbreekt een essentieel bestanddeel, dan kan nietigheid spelen: het contract wordt juridisch behandeld alsof het niet geldig tot stand is gekomen, met mogelijke restitutie en specifieke wettelijke gevolgen.",
+          "pages": [
+            4
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h02-s03",
+          "title": "Wie is wie?",
+          "body": "Verzekeringnemer: sluit de polis en is doorgaans premieplichtig. Verzekerde: persoon wiens belang of risico door de polis wordt gedekt. Begunstigde: ontvangt de contractueel voorziene prestatie. Benadeelde: lijdt schade door een feit. Rollen kunnen samenvallen maar dat hoeft niet. Casus: een ouder sluit een overlijdensverzekering op zijn eigen leven en duidt zijn kind aan. De ouder is verzekeringnemer én verzekerde; het kind is begunstigde.",
+          "pages": [
+            4
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h02-s04",
+          "title": "Twee verschillende indelingen",
+          "body": "Een schadeverzekering betreft een vermogensschade- of aansprakelijkheidsrisico; een persoonsverzekering betreft leven, gezondheid of fysieke integriteit. Dit staat los van het onderscheid verzekering tot vergoeding van schade versus verzekering tot uitkering van een vast bedrag. Bij schadevergoeding mag de vergoeding in beginsel de werkelijk geleden verzekerde schade niet overschrijden; bij een vaste som ontstaat het recht op het overeengekomen bedrag volgens polisvoorwaarden. Verzekerbaar belang: er moet een legitiem belang bestaan bij het uitblijven van de onzekere gebeurtenis, volgens de voor het verzekeringstype geldende regels. Een eigenaar heeft bijvoorbeeld een vermogensbelang bij behoud van zijn woning.",
+          "pages": [
+            4
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h03",
+      "number": 3,
+      "title": "Verzekerde waarde, schadeloosstelling en meerdere polissen",
+      "part": "1.1",
+      "pages": [
+        4,
+        5
+      ],
+      "learningObjectives": [
+        "Leg uit: onderverzekering en evenredigheidsregel.",
+        "Leg uit: oververzekering en samenloop.",
+        "Leg uit: samenloop.",
+        "Leg uit: indeplaatsstelling (subrogatie)."
+      ],
+      "sections": [
+        {
+          "id": "m1-h03-s01",
+          "title": "Onderverzekering en evenredigheidsregel",
+          "body": "Onderverzekering betekent dat de verzekerde waarde lager is dan de waarde die verzekerd had moeten worden. Wanneer de evenredigheidsregel van toepassing is: vergoeding vóór franchise = schade × (verzekerd bedrag / verzekerbare waarde), beperkt door de relevante polisregels. Voorbeeld: woningwaarde €300.000, verzekerd €240.000 en gedekte schade €50.000 geeft €40.000 vóór franchise. Er bestaan contractuele en wettelijke uitzonderingen, onder meer afspraken op basis van een aanvaard evaluatiesysteem.",
+          "pages": [
+            4
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h03-s02",
+          "title": "Oververzekering en samenloop",
+          "body": "Bij oververzekering overschrijdt het verzekerd bedrag het werkelijke belang. Een schadeverzekering is niet bedoeld om winst uit schade te halen. Onderscheid oververzekering te goeder trouw van bedrieglijke oververzekering: de rechtsgevolgen verschillen, en fraude kan nietigheid en sancties veroorzaken.",
+          "pages": [
+            4
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h03-s03",
+          "title": "Samenloop",
+          "body": "hetzelfde belang tegen hetzelfde risico is bij meer dan één verzekeraar verzekerd. De verzekerde mag niet tweemaal dezelfde schade recupereren. De betrokken verzekeraars regelen onderling hun bijdragen volgens de toepasselijke regels.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h03-s04",
+          "title": "Indeplaatsstelling (subrogatie)",
+          "body": "Wanneer een schadeverzekeraar zijn verzekerde vergoedt, kan hij binnen wettelijke grenzen in diens rechten treden tegenover de aansprakelijke derde. Voorbeeld: de brandverzekeraar vergoedt brandschade die door een derde is veroorzaakt en kan daarna verhaal nemen op die derde. Geen dubbele schadevergoeding voor de verzekerde.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h04",
+      "number": 4,
+      "title": "Totstandkoming, informatieplicht en risicoverloop",
+      "part": "1.1",
+      "pages": [
+        5,
+        6
+      ],
+      "learningObjectives": [
+        "Leg uit: voorstel, aanvraag en voorafgetekende polis.",
+        "Leg uit: spontane mededeling bij aanvang.",
+        "Leg uit: verzwijging: opzet versus geen opzet.",
+        "Leg uit: risico tijdens de looptijd.",
+        "Leg uit: bewijs."
+      ],
+      "sections": [
+        {
+          "id": "m1-h04-s01",
+          "title": "Voorstel, aanvraag en voorafgetekende polis",
+          "body": "Een verzekeringsvoorstel is niet zonder meer hetzelfde als een definitief bindend contract; een verzekeringsaanvraag en een voorafgetekende polis hebben specifieke wettelijke rechtsgevolgen en termijnen. Onderzoek voor examenvragen altijd welk document is afgegeven, wie het heeft ondertekend, wanneer de dekking volgens de wet aanvangt en of sprake is van verkoop op afstand. Een ingevuld online formulier geeft dus niet automatisch dezelfde juridische uitkomst als een ondertekende voorafgetekende polis.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h04-s02",
+          "title": "Spontane mededeling bij aanvang",
+          "body": "De verzekeringnemer moet bij het sluiten van de overeenkomst de hem bekende omstandigheden nauwkeurig meedelen die hij redelijkerwijs als relevant voor de risico-inschatting moet beschouwen. Een uitdrukkelijk gestelde vraag verdient een correct antwoord. Voor gezondheidsgegevens gelden bijzondere grenzen en beschermingsregels. Niet elk medisch gegeven mag vrij worden opgevraagd of verwerkt.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h04-s03",
+          "title": "Verzwijging: opzet versus geen opzet",
+          "body": "Bij opzettelijke verzwijging of onjuiste mededeling die de verzekeraar misleidt bij zijn risicobeoordeling kan nietigheid in beeld komen. Bij onopzettelijke fouten zijn andere correctiemechanismen mogelijk, zoals contractaanpassing of opzegging binnen de wettelijke regels, en bij schade onder omstandigheden een evenredige prestatie. Analyseer altijd causaliteit, kennis van de verzekeraar en toepasselijke bepalingen; een fout leidt niet automatisch tot volledige weigering.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h04-s04",
+          "title": "Risico tijdens de looptijd",
+          "body": "Een aanzienlijke en blijvende verzwaring van het risico kan een meldingsplicht activeren. Een daling van risico kan onder de wettelijke voorwaarden recht geven op premievermindering. Voorbeeld: bedrijfsgebouw verandert van kantoor naar opslag van brandbare stoffen. Dit kan de brandrisicobeoordeling wezenlijk wijzigen. Het plaatsen van een erkend alarmsysteem kan een risicovermindering zijn, afhankelijk van polis en omstandigheden.",
+          "pages": [
+            5
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h04-s05",
+          "title": "Bewijs",
+          "body": "De polis en aanhangsels bewijzen welke dekking partijen zijn overeengekomen, binnen de toepasselijke wettelijke bewijsregels. Bewaar ook vragenlijsten, ondertekende voorstellen, e-mails, betalingsbewijzen en bevestigingen: de bewijswaarde kan doorslaggevend zijn.",
+          "pages": [
+            6
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h05",
+      "number": 5,
+      "title": "Premies, schadegevallen en sancties",
+      "part": "1.1",
+      "pages": [
+        6
+      ],
+      "learningObjectives": [
+        "Leg uit: premie en betalingsbevoegdheid.",
+        "Leg uit: niet-betaling en ingebrekestelling.",
+        "Leg uit: schadegeval: taken van de verzekerde.",
+        "Leg uit: uitsluitingen en verval."
+      ],
+      "sections": [
+        {
+          "id": "m1-h05-s01",
+          "title": "Premie en betalingsbevoegdheid",
+          "body": "De premie is de tegenprestatie voor de dekking. Betaling moet gebeuren aan de verzekeraar of een persoon die geldig bevoegd is om ze te ontvangen. Deelbaarheid van de premie betekent dat bij bepaalde beëindigings- of wijzigingssituaties het niet-verdiende premiedeel moet worden verrekend volgens de wettelijke regels.",
+          "pages": [
+            6
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h05-s02",
+          "title": "Niet-betaling en ingebrekestelling",
+          "body": "Niet-betalen heft de waarborg niet zonder meer ogenblikkelijk op. De verzekeraar moet de voorgeschreven procedure volgen, met een geldige ingebrekestelling waarin de wettelijke vermeldingen en termijnen zijn opgenomen, voordat schorsing of opzegging kan doorwerken. Tijdens schorsing ontbreekt de waarborg, terwijl premieverbintenissen onder de wettelijke regels kunnen blijven bestaan. Verwar schorsing niet met beëindiging.",
+          "pages": [
+            6
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h05-s03",
+          "title": "Schadegeval: taken van de verzekerde",
+          "body": "De verzekerde moet het schadegeval tijdig melden binnen de toepasselijke termijnen, nuttige informatie bezorgen, schade beperken en redelijk meewerken aan de vaststelling. Een laattijdige melding leidt niet automatisch tot verval: de wet stelt voorwaarden aan sancties en aan het verband met nadeel of opzet. De gepubliceerde eindtermen 1.1 vermelden eveneens een algemene regel over betaling van vastgestelde verschuldigde prestaties binnen 30 dagen en interest bij laattijdige betaling, bij ontstentenis van een andere specifieke wettelijke regeling. Bij veel schadedomeinen gelden bijzondere afhandelingstermijnen.",
+          "pages": [
+            6
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h05-s04",
+          "title": "Uitsluitingen en verval",
+          "body": "Een uitsluiting omschrijft een risico dat niet onder dekking valt; verval betekent dat de verzekerde zijn aanspraak op prestatie verliest wegens een contractueel omschreven verplichtingsschending, binnen de wettelijke grenzen. Opzettelijke schade door de verzekerde, bepaalde gevallen van grove schuld en oorlog hebben specifieke regelingen. De verzekeraar mag niet elke tekortkoming willekeurig tot volledig verval verheffen.",
+          "pages": [
+            6
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h06",
+      "number": 6,
+      "title": "Opzegging, bijzondere situaties en verjaring",
+      "part": "1.1",
+      "pages": [
+        7
+      ],
+      "learningObjectives": [
+        "Leg uit: duur en opzegging.",
+        "Leg uit: bijzondere beëindigingsgronden.",
+        "Leg uit: derden, medeverzekering en verjaring."
+      ],
+      "sections": [
+        {
+          "id": "m1-h06-s01",
+          "title": "Duur en opzegging",
+          "body": "De wet kent vormvoorschriften voor opzegging (zoals aangetekend schrijven, gerechtsdeurwaardersexploot en overhandiging tegen ontvangstbewijs). Voor veel schadeverzekeringen gelden regels over maximale contractduur en stilzwijgende verlenging. Belangrijk: sinds de hervorming van 2024 gelden voor bepaalde consumentenverzekeringen nieuwe mogelijkheden om na het eerste jaar op te zeggen; andere categorieën en uitzonderingen blijven bestaan. Leer daarom geen enkel algemeen opzegcijfer zonder na te gaan welke polis en welke datum de casus betreft.",
+          "pages": [
+            7
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h06-s02",
+          "title": "Bijzondere beëindigingsgronden",
+          "body": "Bij schade, overlijden van de verzekeringnemer, faillissement of overdracht van de verzekerde zaak kunnen specifieke voortzettings- of opzeggingsregels gelden. Een verkoop van een verzekerd gebouw verandert het verzekerbaar belang en kan de dekking beïnvloeden. Een combinatiepolis bundelt verschillende waarborgen; de wet regelt onder voorwaarden het effect van opzegging van afzonderlijke waarborgen.",
+          "pages": [
+            7
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h06-s03",
+          "title": "Derden, medeverzekering en verjaring",
+          "body": "Een beding ten behoeve van een derde verschaft onder de toepasselijke voorwaarden een derde een eigen recht; bij verzekering voor rekening van een derde wordt een belang van die derde verzekerd. Medeverzekering betekent dat meerdere verzekeraars samen een risico dragen; de eerste verzekeraar heeft een coördinerende rol. Vorderingen uit een verzekeringsovereenkomst kennen in de regel een verjaringstermijn van drie jaar, maar het aanvangspunt, schorsing, stuiting en uitzonderingen zijn belangrijk. Bijvoorbeeld bij levensverzekeringen kunnen bijzondere regels gelden.",
+          "pages": [
+            7
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h07",
+      "number": 7,
+      "title": "Klachten en Ombudsman",
+      "part": "1.1",
+      "pages": [
+        7
+      ],
+      "learningObjectives": [
+        "Leg uit: welke instantie?."
+      ],
+      "sections": [
+        {
+          "id": "m1-h07-s01",
+          "title": "Welke instantie?",
+          "body": "Begin in de praktijk bij de interne klachtendienst van verzekeraar of tussenpersoon. Komt er geen oplossing, dan kan een consument zich schriftelijk wenden tot de Ombudsman van de Verzekeringen voor een gratis buitengerechtelijke klachtenbehandeling. De Ombudsman onderzoekt en bemiddelt; zijn gemotiveerd advies is niet bindend. De tussenpersoon moet meewerken binnen toepasselijke termijnen. Niet iedere klacht gaat naar dezelfde instantie: de FSMA is relevant voor klachten over aanvullende pensioenen van de tweede pijler; Fedris is relevant voor bepaalde arbeidsongevallenvergoedingen.",
+          "pages": [
+            7
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h08",
+      "number": 8,
+      "title": "Overzicht verzekeringsproducten",
+      "part": "1.1",
+      "pages": [
+        8,
+        9
+      ],
+      "learningObjectives": [
+        "Leg uit: risico naar product.",
+        "Leg uit: typische examenvallen."
+      ],
+      "sections": [
+        {
+          "id": "m1-h08-s01",
+          "title": "Risico naar product",
+          "body": "Aansprakelijkheidsverzekeringen: BA motorrijtuigen (schade aan derden door gebruik van verzekerd voertuig), BA privéleven/familiale (buitencontractuele privé-aansprakelijkheid binnen polisvoorwaarden), BA huurder/verhuurder, BA onderneming en BA beroep. Bepaalde aansprakelijkheidsverzekeringen zijn wettelijk verplicht; kijk steeds naar wie de verplichting precies treft. Rechtsbijstand: bijstand bij een juridisch geschil, bijvoorbeeld burgerlijk verhaal, burgerlijke verdediging of strafrechtelijke verdediging. Rechtsbijstand is niet hetzelfde als een verzekering die de aansprakelijkheidsschade zelf betaalt. Zaakverzekeringen: brand/woning, diefstal, voertuigcasco (omnium, schade aan eigen voertuig) en alle risico’s (brede dekking met uitgesloten risico’s). BA auto is niet hetzelfde als omnium. Persoonsverzekeringen niet-leven: hospitalisatie, gewaarborgd inkomen bij arbeidsongeschiktheid, persoonlijke ongevallen en verplichte arbeidsongevallenverzekering. Particuliere dekkingen kunnen het wettelijke socialezekerheidsstelsel aanvullen. Levensverzekeringen: overlijdensdekking, dekking bij leven op einddatum of gemengde formule. Ze kunnen financiële bescherming, pensioenopbouw of sparen en beleggen dienen; risico en garanties verschillen per product en tak.",
+          "pages": [
+            8
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h08-s02",
+          "title": "Typische examenvallen",
+          "body": "Een buur veroorzaakt schade: denk aan aansprakelijkheid en verhaal. Eigen wagen beschadigd zonder aansprakelijke tegenpartij: denk aan casco. Meningsverschil over schadevergoeding: denk aan rechtsbijstand. Inkomensverlies door ziekte: denk aan gewaarborgd inkomen. DEEL B — EXAMEN 1.2",
+          "pages": [
+            8,
+            9
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h09",
+      "number": 9,
+      "title": "Distributie, rollen en FSMA-register",
+      "part": "1.2",
+      "pages": [
+        9
+      ],
+      "learningObjectives": [
+        "Leg uit: wat is verzekeringsdistributie?.",
+        "Leg uit: makelaar, agent, subagent en nevenactiviteit.",
+        "Leg uit: pcp, vvd, effectieve leider."
+      ],
+      "sections": [
+        {
+          "id": "m1-h09-s01",
+          "title": "Wat is verzekeringsdistributie?",
+          "body": "Verzekeringsdistributie omvat in grote lijnen adviseren over, voorstellen van of ander voorbereidend werk voor het sluiten van verzekeringsovereenkomsten, het sluiten ervan en het assisteren bij beheer en uitvoering, waaronder schadebehandeling, wanneer dit onder de wettelijke definitie valt. De wet voorziet specifieke uitzonderingen, onder andere voor bepaalde louter bijkomstige werkzaamheden onder strikte voorwaarden. Niet iedere administratieve handeling van elke persoon is dus automatisch verzekeringsbemiddeling.",
+          "pages": [
+            9
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h09-s02",
+          "title": "Makelaar, agent, subagent en nevenactiviteit",
+          "body": "Een verzekeringsmakelaar is niet contractueel verplicht zijn productie bij één verzekeraar of groep te plaatsen zoals een exclusieve agent. Een verzekeringsagent handelt binnen de contractuele band met één of meerdere verzekeraars. Een subagent handelt onder verantwoordelijkheid van de tussenpersoon waarmee hij verbonden is. Een nevenverzekeringstussenpersoon verdeelt onder specifieke voorwaarden verzekeringen aanvullend bij zijn hoofdproduct of -dienst. De wettelijke precieze definities blijven leidend. Een tussenpersoon kan maar in één relevante registercategorie ingeschreven zijn.",
+          "pages": [
+            9
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h09-s03",
+          "title": "PCP, VVD, effectieve leider",
+          "body": "Een PCP (persoon in contact met het publiek) voert klantencontact in het distributieproces. De VVD (verantwoordelijke voor distributie) organiseert of houdt toezicht op distributie. Een effectieve leider draagt verantwoordelijkheid voor de activiteiten waarover hij feitelijk leiding heeft. De vereiste beroepskennis, betrouwbaarheid en organisatorische eisen verschillen per rol. Een kandidaat-makelaar moet voorafgaand aan zijn activiteit de toepasselijke inschrijving in het FSMA-register verkrijgen en daarna blijvend voldoen aan de voorwaarden. Een geslaagd module-1-examen is op zich geen automatische makelaarsvergunning. De FSMA kan corrigerende maatregelen en sancties opleggen; ernstige inbreuken kunnen ook strafrechtelijk worden vervolgd.",
+          "pages": [
+            9
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h10",
+      "number": 10,
+      "title": "Consumentenbescherming en verkoop op afstand",
+      "part": "1.2",
+      "pages": [
+        9,
+        10
+      ],
+      "learningObjectives": [
+        "Leg uit: boek vi wer.",
+        "Leg uit: oneerlijke praktijken.",
+        "Leg uit: overeenkomsten op afstand."
+      ],
+      "sections": [
+        {
+          "id": "m1-h10-s01",
+          "title": "Boek VI WER",
+          "body": "Het Wetboek van economisch recht bevat regels over marktpraktijken en consumentenbescherming. Informatieverstrekking aan klanten moet duidelijk, begrijpelijk en niet-misleidend zijn. Reclame omvat commerciële mededelingen ter bevordering van een product of dienst. Vergelijkende reclame kan onder voorwaarden, maar mag onder meer niet misleidend of ongeoorloofd denigrerend zijn.",
+          "pages": [
+            9
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h10-s02",
+          "title": "Oneerlijke praktijken",
+          "body": "Een misleidende praktijk geeft verkeerde informatie of laat essentiële informatie weg waardoor de consument een verkeerd besluit kan nemen. Een agressieve praktijk gebruikt ongeoorloofde druk of beïnvloeding. Voorbeeld: een polis aanprijzen als “alles gedekt” terwijl belangrijke uitsluitingen bestaan. De FOD Economie ziet toe op relevante consumentenregels en kan handhaven.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h10-s03",
+          "title": "Overeenkomsten op afstand",
+          "body": "Een verzekering die via website of telefoon wordt afgesloten zonder gelijktijdige fysieke aanwezigheid kan een overeenkomst op afstand zijn. Specifieke informatie-, vorm- en herroepingsregels kunnen gelden. Niet elke verzekering heeft exact hetzelfde herroepingsrecht of dezelfde termijn: controleer het producttype en de wettelijke uitzonderingen.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h11",
+      "number": 11,
+      "title": "AVG/GDPR en persoonsgegevens",
+      "part": "1.2",
+      "pages": [
+        10
+      ],
+      "learningObjectives": [
+        "Leg uit: zes kernbeginselen.",
+        "Leg uit: zes rechtmatigheidsgronden.",
+        "Leg uit: gevoelige gegevens en strafrechtelijke gegevens.",
+        "Leg uit: rechten en verantwoordelijken."
+      ],
+      "sections": [
+        {
+          "id": "m1-h11-s01",
+          "title": "Zes kernbeginselen",
+          "body": "Onthoud de zes beginselen van de AVG: (1) rechtmatigheid, behoorlijkheid en transparantie; (2) doelbinding; (3) minimale gegevensverwerking; (4) juistheid; (5) opslagbeperking; (6) integriteit en vertrouwelijkheid. Verantwoordingsplicht betekent dat de organisatie de naleving moet kunnen aantonen.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h11-s02",
+          "title": "Zes rechtmatigheidsgronden",
+          "body": "Een verwerking heeft een passende grondslag nodig: toestemming, uitvoering van een overeenkomst, wettelijke verplichting, vitale belangen, taak van algemeen belang/openbaar gezag of gerechtvaardigd belang na de vereiste afweging. Toestemming is niet altijd vereist en is ook niet altijd de juiste grondslag. Als toestemming gebruikt wordt, moet ze vrij, specifiek, geïnformeerd, ondubbelzinnig en aantoonbaar zijn en ingetrokken kunnen worden.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h11-s03",
+          "title": "Gevoelige gegevens en strafrechtelijke gegevens",
+          "body": "Gezondheidsgegevens, biometrische gegevens voor unieke identificatie en andere bijzondere categorieën krijgen extra bescherming. Verwerking is in beginsel verboden tenzij een specifieke uitzondering van toepassing is; uitdrukkelijke toestemming is slechts één mogelijke uitzondering. Voor strafrechtelijke veroordelingen gelden aparte strenge regels.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h11-s04",
+          "title": "Rechten en verantwoordelijken",
+          "body": "De betrokkene heeft, voor zover toepasselijk, rechten op informatie/inzage, rectificatie, wissing, beperking, overdraagbaarheid en bezwaar. De verwerkingsverantwoordelijke bepaalt doel en middelen; de verwerker verwerkt in opdracht ervan. De Belgische Gegevensbeschermingsautoriteit (GBA) is een relevante toezichthouder. Inbreuken kunnen schadevergoeding en administratieve sancties meebrengen. Casus: een medewerker mailt per ongeluk een medisch dossier naar een verkeerde klant. Dit is mogelijk een datalek: meteen intern melden, toegang beperken, risico beoordelen en eventueel de GBA/betrokkene informeren volgens de AVG.",
+          "pages": [
+            10
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h12",
+      "number": 12,
+      "title": "Antiwitwasverplichtingen",
+      "part": "1.2",
+      "pages": [
+        11
+      ],
+      "learningObjectives": [
+        "Leg uit: doel en toepassingsgebied.",
+        "Leg uit: instanties en verantwoordelijken.",
+        "Leg uit: klantenonderzoek.",
+        "Leg uit: meldingen, bewaartermijn, cash."
+      ],
+      "sections": [
+        {
+          "id": "m1-h12-s01",
+          "title": "Doel en toepassingsgebied",
+          "body": "De antiwitwaswet van 18 september 2017 beoogt witwassen en terrorismefinanciering tegen te gaan en bevat ook regels over cash. Vooral levensverzekeringsactiviteiten en bepaalde betrokken tussenpersonen vallen binnen de relevante verplichtingen; niet elke bemiddelaar is voor elke productactiviteit gelijk onderworpen. Terrorismefinanciering kan ook met op zichzelf legale gelden plaatsvinden.",
+          "pages": [
+            11
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h12-s02",
+          "title": "Instanties en verantwoordelijken",
+          "body": "CFI is de Cel voor Financiële Informatieverwerking, die meldingen van verdachte feiten analyseert. NBB en FSMA hebben toezichtstaken binnen hun bevoegdheid. De AMLCO (anti-money laundering compliance officer) ziet toe op de operationele naleving; ook een verantwoordelijke op hoog niveau wordt aangeduid. Alle betrokken medewerkers hebben waakzaamheids- en escalatieplichten.",
+          "pages": [
+            11
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h12-s03",
+          "title": "Klantenonderzoek",
+          "body": "Kernverplichtingen: klantacceptatiebeleid, identificeer en verifieer identiteit, identificeer vertegenwoordigers en uiteindelijke begunstigden (UBO), beoordeel risico, blijf transacties opvolgen, documenteer, bewaar en vorm medewerkers op. Identificatie is het verzamelen van identiteitsgegevens; verificatie is toetsen aan betrouwbare onafhankelijke bewijsstukken. Bij een rechtspersoon moet men ook de controle- en eigendomsstructuur begrijpen.",
+          "pages": [
+            11
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h12-s04",
+          "title": "Meldingen, bewaartermijn, cash",
+          "body": "Bij ernstige aanwijzingen van witwassen of terrorismefinanciering geldt een specifieke interne escalatie en mogelijk melding aan de CFI. De cliënt wordt niet getipt over een melding. Bewaartermijnen voor klantenonderzoek moeten volgens de wet worden toegepast; in veel gevallen geldt een termijn van tien jaar vanaf het relevante eindpunt, met nuance voor soort documenten en activiteit. De eindtermen noemen een cashgrens van €3.000, maar de toepasselijke uitzonderingen en actuele regels moeten vóór het examen opnieuw worden geverifieerd.",
+          "pages": [
+            11
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h13",
+      "number": 13,
+      "title": "IDD, zorgplicht en informatievereisten",
+      "part": "1.2",
+      "pages": [
+        11,
+        12
+      ],
+      "learningObjectives": [
+        "Leg uit: de fundamentele gedragsregel.",
+        "Leg uit: informatie voorafgaand aan het contract.",
+        "Leg uit: wensen en behoeften, advies.",
+        "Leg uit: belangenconflicten, bundeling, governance."
+      ],
+      "sections": [
+        {
+          "id": "m1-h13-s01",
+          "title": "De fundamentele gedragsregel",
+          "body": "Een verzekeringsdistributeur moet zich loyaal, billijk en professioneel inzetten voor de belangen van de klant. De verstrekte informatie, inclusief reclame, moet correct, duidelijk en niet misleidend zijn. De manier waarop de tussenpersoon wordt beloond mag niet leiden tot handelen tegen het klantbelang.",
+          "pages": [
+            11
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h13-s02",
+          "title": "Informatie voorafgaand aan het contract",
+          "body": "Voor het afsluiten moet de klant onder meer relevante informatie ontvangen over de distributeur, zijn hoedanigheid, eventuele belangenconflicten en vergoedingswijze, de belangrijkste kenmerken, kosten en waarborgen van het product. Bij niet-levensverzekeringen dient het gestandaardiseerde IPID (Insurance Product Information Document) als productinformatie. Het IPID vervangt niet noodzakelijk alle andere wettelijk vereiste documenten. Informatieverstrekking gebeurt tijdig, op de voorgeschreven drager en in begrijpelijke vorm.",
+          "pages": [
+            12
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h13-s03",
+          "title": "Wensen en behoeften, advies",
+          "body": "Bij verkoop met én zonder advies moet de voorgestelde verzekering aansluiten bij de door de klant meegedeelde wensen en behoeften. Een gepersonaliseerde aanbeveling is advies dat uitlegt waarom een bepaald product bij de klant past. Zonder advies mag men niet suggereren dat een persoonlijke aanbeveling is gegeven. Leg de behoeften en gemaakte keuzes zorgvuldig vast.",
+          "pages": [
+            12
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h13-s04",
+          "title": "Belangenconflicten, bundeling, governance",
+          "body": "Conflicten tussen inkomsten van distributeur en klantbelang moeten worden geïdentificeerd en beheerst. Koppel- of bundelverkoop kan onder voorwaarden, met passende uitleg over samenstelling en beschikbaarheid. Productgovernance betekent onder meer dat producten voor een omschreven doelmarkt zijn ontwikkeld en passend worden verdeeld. Ken de wezenlijke eigenschappen van de producten die je bemiddelt.",
+          "pages": [
+            12
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    },
+    {
+      "id": "m1-h14",
+      "number": 14,
+      "title": "Dossier, productbeheer en bedrijfsethiek",
+      "part": "1.2",
+      "pages": [
+        12,
+        13
+      ],
+      "learningObjectives": [
+        "Leg uit: klantendossier en traceerbaarheid.",
+        "Leg uit: beleggingsverzekeringen.",
+        "Leg uit: ethiek en sancties."
+      ],
+      "sections": [
+        {
+          "id": "m1-h14-s01",
+          "title": "Klantendossier en traceerbaarheid",
+          "body": "Een goed dossier bevat identificatie, wensen en behoeften, relevante risicogegevens, gegeven informatie, advies en motivatie waar toepasselijk, overeenkomsten, wijzigingen en contacten over schade. De wet voorziet bewaarplichten; de eindtermen noemen minstens vijf jaar voor bepaalde gegevens van distributieverrichtingen ten behoeve van FSMA-toezicht. Verwar die termijn niet met alle fiscale, witwas- of GDPR-bewaarregels.",
+          "pages": [
+            12
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h14-s02",
+          "title": "Beleggingsverzekeringen",
+          "body": "Voor verzekeringsgebaseerde beleggingsproducten zijn aanvullende regels van toepassing over informatie, belangenconflicten, vergoedingen en beoordeling van geschiktheid/passendheid. Geschiktheid is uitgebreider en beoordeelt onder meer doelen, financiële draagkracht en kennis/ervaring bij advies. Een tak-23-product is geen gewone spaarrekening met gegarandeerde opbrengst.",
+          "pages": [
+            12
+          ],
+          "sourceKind": "independent-guide"
+        },
+        {
+          "id": "m1-h14-s03",
+          "title": "Ethiek en sancties",
+          "body": "Sectorale gedragscodes kunnen wettelijke regels aanvullen en gelden rechtstreeks voor wie erdoor gebonden is; ze kunnen ook een referentie zijn bij toezicht of geschillen. Samenwerkingsovereenkomsten kunnen bijkomende deontologische verplichtingen vastleggen. Niet-naleving van de gedragsregels kan administratieve sancties en burgerlijke aansprakelijkheid meebrengen.",
+          "pages": [
+            13
+          ],
+          "sourceKind": "independent-guide"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "m1-case-01",
+      "number": 1,
+      "chapterId": "m1-h03",
+      "title": "Verzekerde waarde",
+      "prompt": "Een woning heeft verzekerbare waarde €400.000 maar is verzekerd voor €300.000. Gedekte schade €80.000. Wat is, indien de evenredigheidsregel speelt, de vergoeding vóór franchise?",
+      "modelAnswer": "€80.000 × (€300.000 / €400.000) = €60.000.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-02",
+      "number": 2,
+      "chapterId": "m1-h03",
+      "title": "Twee verzekeraars",
+      "prompt": "Een klant heeft hetzelfde risico tweemaal verzekerd en lijdt €12.000 gedekte schade. Kan hij €24.000 ontvangen?",
+      "modelAnswer": "Nee. De schadevergoedende verzekering mag geen bron van winst zijn; verzekeraars regelen de samenloop.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-03",
+      "number": 3,
+      "chapterId": "m1-h11",
+      "title": "Medische informatie",
+      "prompt": "Een medewerker wil een medisch verslag van een kandidaat doorsturen naar een andere klant. Kan dat?",
+      "modelAnswer": "Nee. Gezondheidsgegevens zijn bijzonder beschermd en vereisen een rechtsgrond, uitzonderingsvoorwaarde en adequate beveiliging.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-04",
+      "number": 4,
+      "chapterId": "m1-h13",
+      "title": "Zonder advies",
+      "prompt": "Een klant vraagt enkel de goedkoopste autoverzekering en weigert advies. Mag je zonder verdere analyse verkopen?",
+      "modelAnswer": "Nee. Ook zonder advies moet de distributeur de wensen en behoeften vaststellen en een hiermee verenigbaar product aanbieden.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-05",
+      "number": 5,
+      "chapterId": "m1-h05",
+      "title": "Wanbetaling",
+      "prompt": "Een klant mist een premiebetaling. Is de polis automatisch vanaf morgen zonder dekking?",
+      "modelAnswer": "Nee. Voor schorsing of opzegging moeten de wettelijke procedures, ingebrekestelling en termijnen worden gerespecteerd.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-06",
+      "number": 6,
+      "chapterId": "m1-h07",
+      "title": "Klacht",
+      "prompt": "Een verzekeraar en klant geraken er na interne klachtenprocedure niet uit. Welke onafhankelijke mogelijkheid bestaat?",
+      "modelAnswer": "Een schriftelijke, gratis klacht bij de Ombudsman van de Verzekeringen, met niet-bindend advies.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "m1-case-07",
+      "number": 7,
+      "chapterId": "m1-h13",
+      "title": "Commissies",
+      "prompt": "Een maatschappij betaalt een hogere vergoeding voor product A; product B is beter voor de klant. Wat doe je?",
+      "modelAnswer": "Handel in het klantbelang, beheer het belangenconflict en motiveer de passende productkeuze; niet uitsluitend sturen op commissie.",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "m1-case-08",
+      "number": 8,
+      "chapterId": "m1-h12",
+      "title": "UBO",
+      "prompt": "Een vennootschap sluit een relevante levensverzekering. Is de naam van de vennootschap alleen voldoende voor AML?",
+      "modelAnswer": "Nee. Ook onder meer de vertegenwoordiger en uiteindelijke begunstigde(n) moeten volgens de toepasselijke regels geïdentificeerd en geverifieerd worden.",
+      "pages": [
+        15
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m1-q01",
+      "number": 1,
+      "chapterId": "m1-h01",
+      "prompt": "Wie houdt vooral prudentieel toezicht op verzekeraars?",
+      "choices": [
+        "FSMA",
+        "NBB",
+        "GBA",
+        "CFI"
+      ],
+      "correct": "B",
+      "explanation": "Prudentieel toezicht op verzekeringsondernemingen behoort vooral tot de NBB.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q02",
+      "number": 2,
+      "chapterId": "m1-h01",
+      "prompt": "Welke distributievorm past bij een makelaar die meerdere verzekeraars vergelijkt?",
+      "choices": [
+        "Exclusief",
+        "Direct",
+        "Niet-exclusief",
+        "Geen distributie"
+      ],
+      "correct": "C",
+      "explanation": "Een makelaar kan niet-exclusief bemiddelen.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q03",
+      "number": 3,
+      "chapterId": "m1-h02",
+      "prompt": "Wat is een begunstigde?",
+      "choices": [
+        "De premiebetaler",
+        "Degene die de prestatie ontvangt",
+        "De toezichthouder",
+        "De schade-expert"
+      ],
+      "correct": "B",
+      "explanation": "De begunstigde ontvangt de verzekeringsprestatie.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q04",
+      "number": 4,
+      "chapterId": "m1-h02",
+      "prompt": "Welke combinatie hoort bij de essentie van verzekering?",
+      "choices": [
+        "Onzeker risico, premie, prestatie",
+        "Enkel premie en polisnummer",
+        "Schade en advocaat",
+        "Alleen een zeker voorval"
+      ],
+      "correct": "A",
+      "explanation": "Risico, premie en de verzekeraarsverbintenis zijn essentieel.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q05",
+      "number": 5,
+      "chapterId": "m1-h02",
+      "prompt": "Wat betekent schadevergoedend?",
+      "choices": [
+        "Altijd vaste som",
+        "Meer dan de schade uitkeren",
+        "De werkelijke verzekerde schade vergoeden binnen grenzen",
+        "Premie terugbetalen"
+      ],
+      "correct": "C",
+      "explanation": "Het vergoedingsbeginsel beperkt vergoeding tot de relevante schade.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q06",
+      "number": 6,
+      "chapterId": "m1-h03",
+      "prompt": "Welke waarde is onderverzekerd?",
+      "choices": [
+        "€250.000 verzekerd voor €200.000 waarde",
+        "€200.000 verzekerd voor €250.000 waarde",
+        "Beide gelijk",
+        "Geen verzekerbaar belang"
+      ],
+      "correct": "B",
+      "explanation": "Verzekerd bedrag is lager dan verzekerbare waarde.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q07",
+      "number": 7,
+      "chapterId": "m1-h03",
+      "prompt": "Waarde €200.000, verzekerd €100.000, schade €40.000. Evenredigheidsregel?",
+      "choices": [
+        "€10.000",
+        "€20.000",
+        "€40.000",
+        "€80.000"
+      ],
+      "correct": "B",
+      "explanation": "€40.000 × 100.000/200.000 = €20.000.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q08",
+      "number": 8,
+      "chapterId": "m1-h03",
+      "prompt": "Wat is subrogatie?",
+      "choices": [
+        "De polis opzeggen",
+        "Een premie innen",
+        "In rechten van verzekerde treden na vergoeding",
+        "Opnieuw adviseren"
+      ],
+      "correct": "C",
+      "explanation": "De verzekeraar kan onder voorwaarden verhaal uitoefenen.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q09",
+      "number": 9,
+      "chapterId": "m1-h04",
+      "prompt": "Is elk verzekeringsvoorstel reeds een definitieve overeenkomst?",
+      "choices": [
+        "Ja altijd",
+        "Nee, rechtsgevolg hangt af van document en voorwaarden",
+        "Alleen digitaal",
+        "Alleen telefonisch"
+      ],
+      "correct": "B",
+      "explanation": "Voorstel, aanvraag en voorafgetekende polis verschillen.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q10",
+      "number": 10,
+      "chapterId": "m1-h04",
+      "prompt": "Wat is opzettelijke verzwijging?",
+      "choices": [
+        "Een materieel feit bewust verbergen om te misleiden",
+        "Onleesbare polis",
+        "Louter tikfout",
+        "Daling van risico"
+      ],
+      "correct": "A",
+      "explanation": "Bewuste misleiding heeft andere gevolgen dan een onopzettelijke vergissing.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q11",
+      "number": 11,
+      "chapterId": "m1-h04",
+      "prompt": "Wat is de eerste stap bij relevante risicoverzwaring?",
+      "choices": [
+        "Niets doen",
+        "Verzwaring onderzoeken en volgens regels melden",
+        "Automatisch schade weigeren",
+        "Polis vernietigen"
+      ],
+      "correct": "B",
+      "explanation": "Een aanzienlijke blijvende verzwaring kan meldingsplichtig zijn.",
+      "questionPage": 15,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q12",
+      "number": 12,
+      "chapterId": "m1-h05",
+      "prompt": "Niet-betaalde premie betekent ...",
+      "choices": [
+        "Automatisch onmiddellijk geen dekking",
+        "Nooit gevolgen",
+        "Wettelijke ingebrekestelling/procedure kan nodig zijn",
+        "Onmiddellijk strafrecht"
+      ],
+      "correct": "C",
+      "explanation": "Schorsing of beëindiging vergt de juiste procedure.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q13",
+      "number": 13,
+      "chapterId": "m1-h05",
+      "prompt": "Wat moet de verzekerde bij schade doen?",
+      "choices": [
+        "Bewijs weggooien",
+        "Schade onbeperkt laten groeien",
+        "Redelijke schadebeperking en melding",
+        "Altijd eigen risico verdubbelen"
+      ],
+      "correct": "C",
+      "explanation": "Er gelden meldings-, informatie- en schadebeperkingsplichten.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q14",
+      "number": 14,
+      "chapterId": "m1-h05",
+      "prompt": "Wat onderscheidt uitsluiting van verval?",
+      "choices": [
+        "Hetzelfde begrip",
+        "Uitsluiting betreft gedekte risico’s, verval schending voorwaarden",
+        "Verval altijd premiebetaling",
+        "Uitsluiting is een schade-expert"
+      ],
+      "correct": "B",
+      "explanation": "Een uitsluiting bakent dekking af; verval raakt aanspraak door schending.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "toepassing",
+      "editorialNote": "De formulering van antwoord B in de gids is onnauwkeurig: een uitsluiting bakent de dekking af. Het antwoordmodel duidt B aan."
+    },
+    {
+      "id": "m1-q15",
+      "number": 15,
+      "chapterId": "m1-h06",
+      "prompt": "Wat is een combinatiepolis?",
+      "choices": [
+        "Polis met meerdere waarborgen",
+        "Alleen levensverzekering",
+        "Enkel één risicofactor",
+        "Twee niet-verbonden klanten"
+      ],
+      "correct": "A",
+      "explanation": "Meerdere waarborgen kunnen in één polis gebundeld zijn.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q16",
+      "number": 16,
+      "chapterId": "m1-h07",
+      "prompt": "Wat is een kenmerk van de Ombudsman van de Verzekeringen?",
+      "choices": [
+        "Verbindend vonnis",
+        "Gratis buitengerechtelijk bemiddelen",
+        "Strafrechtelijk sanctioneren",
+        "Solvabiliteit controleren"
+      ],
+      "correct": "B",
+      "explanation": "De Ombudsman behandelt klachten en tracht te bemiddelen.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q17",
+      "number": 17,
+      "chapterId": "m1-h08",
+      "prompt": "Welke dekking vergoedt doorgaans schade aan eigen auto?",
+      "choices": [
+        "Alleen BA auto",
+        "Omnium/casco",
+        "Alleen familiale BA",
+        "Strafrechtelijke verdediging"
+      ],
+      "correct": "B",
+      "explanation": "Casco kan schade aan eigen voertuig dekken.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q18",
+      "number": 18,
+      "chapterId": "m1-h08",
+      "prompt": "Welk product biedt juridische bijstand?",
+      "choices": [
+        "Rechtsbijstand",
+        "Tak 23",
+        "Omnium",
+        "Gewaarborgd inkomen"
+      ],
+      "correct": "A",
+      "explanation": "Rechtsbijstand ondersteunt bij juridische geschillen.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q19",
+      "number": 19,
+      "chapterId": "m1-h08",
+      "prompt": "Wat dekt gewaarborgd inkomen in grote lijnen?",
+      "choices": [
+        "Schade aan gebouw",
+        "Inkomensverlies bij arbeidsongeschiktheid",
+        "Autodiefstal",
+        "Schade bij derde"
+      ],
+      "correct": "B",
+      "explanation": "Het product beschermt inkomen binnen contractvoorwaarden.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q20",
+      "number": 20,
+      "chapterId": "m1-h08",
+      "prompt": "Welke levenspolis betaalt in beginsel bij overlijden?",
+      "choices": [
+        "Enkel casco",
+        "Overlijdensverzekering",
+        "Enkel BA privéleven",
+        "Rechtsbijstand"
+      ],
+      "correct": "B",
+      "explanation": "Bij overlijden kan de aangeduide begunstigde de verzekerde prestatie ontvangen.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q21",
+      "number": 21,
+      "chapterId": "m1-h09",
+      "prompt": "Wie beheert het register van verzekeringstussenpersonen?",
+      "choices": [
+        "FSMA",
+        "Fedris",
+        "GBA",
+        "Ombudsman"
+      ],
+      "correct": "A",
+      "explanation": "De FSMA beheert het relevante register.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q22",
+      "number": 22,
+      "chapterId": "m1-h09",
+      "prompt": "Wat betekent PCP?",
+      "choices": [
+        "Persoon in contact met het publiek",
+        "Poliscontrolepremie",
+        "Premiecomité",
+        "Productcommissie"
+      ],
+      "correct": "A",
+      "explanation": "Een PCP heeft klantcontact bij distributie.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q23",
+      "number": 23,
+      "chapterId": "m1-h09",
+      "prompt": "Kan geslaagd zijn voor module 1 op zichzelf volstaan als makelaarsinschrijving?",
+      "choices": [
+        "Ja altijd",
+        "Nee, overige voorwaarden en registratie blijven nodig",
+        "Ja, na eerste premie",
+        "Ja, zonder toezicht"
+      ],
+      "correct": "B",
+      "explanation": "Het examen is maar één onderdeel van de voorwaarden.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q24",
+      "number": 24,
+      "chapterId": "m1-h10",
+      "prompt": "Welke reclame is problematisch?",
+      "choices": [
+        "Correcte risico-informatie",
+        "Misleidende claim alles verzekerd",
+        "Accurate voorwaarden",
+        "Relevante kostenvermelding"
+      ],
+      "correct": "B",
+      "explanation": "Misleiding is in strijd met de consumentenregels.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q25",
+      "number": 25,
+      "chapterId": "m1-h10",
+      "prompt": "Wie houdt toezicht op relevante marktpraktijkenregels?",
+      "choices": [
+        "FOD Economie",
+        "Enkel CFI",
+        "Alleen notaris",
+        "Alleen Fedris"
+      ],
+      "correct": "A",
+      "explanation": "FOD Economie is toezichthouder inzake diverse consumentenregels.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q26",
+      "number": 26,
+      "chapterId": "m1-h11",
+      "prompt": "Wat is doelbinding volgens AVG?",
+      "choices": [
+        "Alle data onbeperkt hergebruiken",
+        "Alleen omschreven legitieme doelen",
+        "Altijd gegevens verkopen",
+        "Nooit gegevens bewaren"
+      ],
+      "correct": "B",
+      "explanation": "Persoonsgegevens worden voor welbepaalde rechtmatige doelen verwerkt.",
+      "questionPage": 16,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q27",
+      "number": 27,
+      "chapterId": "m1-h11",
+      "prompt": "Welke is een AVG-grondslag?",
+      "choices": [
+        "Marketingwens alleen",
+        "Contractuele noodzaak",
+        "Leeftijd van medewerker",
+        "Hoge commissie"
+      ],
+      "correct": "B",
+      "explanation": "Noodzaak voor overeenkomst kan een rechtmatigheidsgrond zijn.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q28",
+      "number": 28,
+      "chapterId": "m1-h11",
+      "prompt": "Welk type gegevens krijgt bijzondere AVG-bescherming?",
+      "choices": [
+        "Openingsuren",
+        "Gezondheidsgegevens",
+        "Anonieme weerdata",
+        "Algemene productprijs"
+      ],
+      "correct": "B",
+      "explanation": "Gezondheidsgegevens zijn bijzondere categorie persoonsgegevens.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q29",
+      "number": 29,
+      "chapterId": "m1-h11",
+      "prompt": "Wie bepaalt doel en middelen van verwerking?",
+      "choices": [
+        "Verwerkingsverantwoordelijke",
+        "Enkel e-mailprovider",
+        "Elke klant",
+        "Altijd de FSMA"
+      ],
+      "correct": "A",
+      "explanation": "De verwerkingsverantwoordelijke bepaalt het doel en de middelen.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q30",
+      "number": 30,
+      "chapterId": "m1-h11",
+      "prompt": "Welke instantie is Belgische AVG-toezichthouder?",
+      "choices": [
+        "NBB",
+        "GBA",
+        "CFI",
+        "Fedris"
+      ],
+      "correct": "B",
+      "explanation": "GBA is de Gegevensbeschermingsautoriteit.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q31",
+      "number": 31,
+      "chapterId": "m1-h12",
+      "prompt": "Wat is identificatie bij AML?",
+      "choices": [
+        "Gegevens van identiteit vaststellen",
+        "Verzekeringspremie vaststellen",
+        "Klant adviseren",
+        "Schadewaarde bepalen"
+      ],
+      "correct": "A",
+      "explanation": "Verificatie gaat vervolgens na of gegevens kloppen via betrouwbare bronnen.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q32",
+      "number": 32,
+      "chapterId": "m1-h12",
+      "prompt": "Wat is een UBO?",
+      "choices": [
+        "Basisverzekering",
+        "Uiteindelijke begunstigde/eigenaar",
+        "Eén verplichte premie",
+        "Hypotheekregister"
+      ],
+      "correct": "B",
+      "explanation": "UBO staat voor ultimate beneficial owner.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q33",
+      "number": 33,
+      "chapterId": "m1-h12",
+      "prompt": "Wat doet de CFI vooral?",
+      "choices": [
+        "Verzekeringsprijzen bepalen",
+        "Meldingen verdachte financiële feiten analyseren",
+        "Omnium verkopen",
+        "Polissen ondertekenen"
+      ],
+      "correct": "B",
+      "explanation": "CFI is centrale meld- en analyse-instantie.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q34",
+      "number": 34,
+      "chapterId": "m1-h12",
+      "prompt": "Kan terrorismefinanciering plaatsvinden met legale gelden?",
+      "choices": [
+        "Ja",
+        "Nee, uitsluitend gestolen geld",
+        "Alleen via cash",
+        "Enkel via bedrijfspolis"
+      ],
+      "correct": "A",
+      "explanation": "De herkomst van fondsen hoeft niet onrechtmatig te zijn.",
+      "questionPage": 17,
+      "answerPage": 18,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q35",
+      "number": 35,
+      "chapterId": "m1-h13",
+      "prompt": "Welke gedragsregel is fundamenteel?",
+      "choices": [
+        "Maximale commissie eerst",
+        "Loyaal, billijk en professioneel in klantbelang",
+        "Altijd duurste polis",
+        "Geen dossier bewaren"
+      ],
+      "correct": "B",
+      "explanation": "Klantbelang is kern van de zorgplicht.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q36",
+      "number": 36,
+      "chapterId": "m1-h13",
+      "prompt": "Wat is het IPID?",
+      "choices": [
+        "Gestandaardiseerd informatiedocument voor niet-leven",
+        "Een schade-expert",
+        "De premiebelasting",
+        "Een UBO-register"
+      ],
+      "correct": "A",
+      "explanation": "IPID informeert vooraf over het schadeverzekeringsproduct.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q37",
+      "number": 37,
+      "chapterId": "m1-h13",
+      "prompt": "Bestaat wensen-en-behoeftentoets ook bij verkoop zonder advies?",
+      "choices": [
+        "Nee",
+        "Ja",
+        "Alleen bij brand",
+        "Enkel bij fraude"
+      ],
+      "correct": "B",
+      "explanation": "Ook zonder advies moet het product aansluiten bij behoeften.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q38",
+      "number": 38,
+      "chapterId": "m1-h13",
+      "prompt": "Wat is een gepersonaliseerde aanbeveling?",
+      "choices": [
+        "Enkel prijslijst",
+        "Advies waarom specifiek product geschikt is",
+        "Reclamefolder zonder analyse",
+        "Uniforme polisvoorwaarden"
+      ],
+      "correct": "B",
+      "explanation": "Advies verklaart de individuele passendheid.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "toepassing"
+    },
+    {
+      "id": "m1-q39",
+      "number": 39,
+      "chapterId": "m1-h14",
+      "prompt": "Wat is productgovernance?",
+      "choices": [
+        "Producten willekeurig aan iedereen verkopen",
+        "Productdoelmarkt en distributie beheren",
+        "Alleen kleur van brochures",
+        "Alleen boekhouding"
+      ],
+      "correct": "B",
+      "explanation": "Producttoezicht verlangt een passend doelmarkt- en distributieproces.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "begrip"
+    },
+    {
+      "id": "m1-q40",
+      "number": 40,
+      "chapterId": "m1-h14",
+      "prompt": "Wat doe je bij een mogelijk belangenconflict?",
+      "choices": [
+        "Verbergen",
+        "Identificeren, beheren en waar vereist informeren",
+        "Enkel hoogste commissie kiezen",
+        "Klant dossier wissen"
+      ],
+      "correct": "B",
+      "explanation": "Conflicten moeten professioneel worden beheerst.",
+      "questionPage": 17,
+      "answerPage": 19,
+      "difficulty": "toepassing"
+    }
+  ],
+  "coverage": [
+    {
+      "page": 1,
+      "kind": "Inleiding en inhoudsopgave",
+      "processed": true
+    },
+    {
+      "page": 2,
+      "kind": "Inleiding en inhoudsopgave",
+      "processed": true
+    },
+    {
+      "page": 3,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 4,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 5,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 6,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 7,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 8,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 9,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 10,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 11,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 12,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 13,
+      "kind": "Theorie",
+      "processed": true
+    },
+    {
+      "page": 14,
+      "kind": "Casussen",
+      "processed": true
+    },
+    {
+      "page": 15,
+      "kind": "Casussen en vragen",
+      "processed": true
+    },
+    {
+      "page": 16,
+      "kind": "Oefenvragen",
+      "processed": true
+    },
+    {
+      "page": 17,
+      "kind": "Oefenvragen",
+      "processed": true
+    },
+    {
+      "page": 18,
+      "kind": "Antwoordmodel",
+      "processed": true
+    },
+    {
+      "page": 19,
+      "kind": "Antwoordmodel en eindtermen-checklist",
+      "processed": true
+    },
+    {
+      "page": 20,
+      "kind": "Bronnen en controlepunten",
+      "processed": true
+    }
+  ],
+  "sourceLinks": [
+    {
+      "title": "Certassur examens en eindtermen",
+      "url": "https://www.certassur.be/nl/exameninfo/examens-en-eindtermen"
+    },
+    {
+      "title": "Certassur examenregels",
+      "url": "https://www.certassur.be/nl/exameninfo/examenregels"
+    },
+    {
+      "title": "FSMA: inschrijving verzekeringstussenpersoon",
+      "url": "https://www.fsma.be/nl/tussenpersonen-kredietgevers/wie-moet-zich-inschrijven-als-verzekeringstussenpersoon"
+    },
+    {
+      "title": "EUR-Lex: AVG",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/"
+    }
+  ]
+}
