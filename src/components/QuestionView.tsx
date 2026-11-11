@@ -1,0 +1,13 @@
+import { Flag, CheckCircle2, XCircle } from 'lucide-react'
+import type { Question } from '../types'
+import { answerLabel, grade } from '../lib/learning'
+import { SourceLink, Badge } from './ui'
+export function QuestionInput({q,value,onChange,disabled=false}:{q:Question;value:string;onChange:(v:string)=>void;disabled?:boolean}){
+ if(q.kind==='fill')return <label className="field">Jouw antwoord<input disabled={disabled} value={value} onChange={e=>onChange(e.target.value)} placeholder="Typ je antwoord…" autoComplete="off"/></label>
+ if(q.kind==='match'){const vals=value?value.split('|'):Array(q.matchLabels!.length).fill('');return <div className="matches">{q.matchLabels?.map((label,i)=><label key={label}><span>{label}</span><select disabled={disabled} value={vals[i]??''} onChange={e=>{const next=[...vals];next[i]=e.target.value;onChange(next.every(v=>v!=='')?next.join('|'):next.join('|'))}}><option value="">Kies een definitie</option>{q.choices.map((c,j)=><option key={c} value={j}>{c}</option>)}</select></label>)}</div>}
+ const selected=value?value.split('|'):[]
+ return <div className="choices">{q.choices.map((choice,i)=>{const active=selected.includes(String(i));return <label key={i} className={'choice '+(active?'selected':'')}><input type={q.kind==='multi'?'checkbox':'radio'} name={q.id} checked={active} disabled={disabled} onChange={()=>{if(q.kind==='multi'){onChange((active?selected.filter(v=>v!==String(i)):[...selected,String(i)]).sort((a,b)=>Number(a)-Number(b)).join('|'))}else onChange(String(i))}}/><span className="choice-letter">{String.fromCharCode(65+i)}</span><span>{choice}</span></label>})}</div>
+}
+export function hasAnswer(q:Question,value:string){return !!value.trim()&&(q.kind!=='match'||value.split('|').length===q.matchLabels!.length&&value.split('|').every(v=>v!==''))}
+export function Feedback({q,value}:{q:Question;value:string}){const correct=grade(q,value);return <div className={'feedback '+(correct?'correct':'incorrect')}><strong>{correct?<CheckCircle2 size={19}/>:<XCircle size={19}/>} {correct?'Goed beantwoord':'Nog even herhalen'}</strong>{!correct&&<p>Juiste antwoord: <b>{answerLabel(q,q.correct)}</b></p>}<p>{q.explanation}</p><SourceLink pages={q.pages} entityId={q.id}/></div>}
+export function QuestionMeta({q,hard,onHard}:{q:Question;hard:boolean;onHard:()=>void}){return <div className="question-meta"><Badge tone="muted">{{single:'Meerkeuze',boolean:'Juist / fout',multi:'Meerdere antwoorden',fill:'Invulvraag',match:'Begrippen koppelen'}[q.kind]}</Badge><button className={'text-btn '+(hard?'amber-text':'')} onClick={onHard}><Flag size={15} fill={hard?'currentColor':'none'}/>{hard?'Gemarkeerd als moeilijk':'Markeer als moeilijk'}</button></div>}
