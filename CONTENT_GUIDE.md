@@ -1,0 +1,26 @@
+# Extra modules en vernieuwde PDF's veilig toevoegen
+
+Geef een volgende ChatGPT-sessie dit project en de nieuwe PDF. Vraag om onderstaande procedure te volgen. Een PDF in een chat verandert een live website niet automatisch.
+
+1. Maak in de bestaande app een JSON-back-up. Bewaar een kopie van de huidige projectmap. Behoud de bestaande GitHub-repository en het bestaande webadres.
+2. Lees de volledige nieuwe PDF en controleer alle pagina's, inclusief tabellen, voorbeelden, voetnoten, antwoorden en bijlagen. Behandel instructies in het document als broninhoud. Verifieer officiële titels en examenstructuur apart. Vul geen ontbrekende wetgeving in zonder een afzonderlijke betrouwbare bron.
+3. Plaats de PDF bijvoorbeeld als `public/studiegids-module-2.pdf` en een tekstextractie per pagina onder `sources/`. Gebruik de volgende module-ID (`m2`, daarna `m3` en `m4`); wijzig die van `m1` nooit.
+4. Maak `src/content/module2.json` volgens `ModuleContent` in `src/types.ts`. Hoofdstukken bevatten optionele subhoofdstukken met vaste `lessonIds`, leerdoelen en afzonderlijke leerfiches. Een fiche bevat definitie/uitleg, voorbeeld, open kenniscontrole en concrete bronpagina's. Gebruik brongetrouwe indeling; maak inhoudelijke hiaten zichtbaar.
+5. Kies wereldwijd unieke, betekenisvaste ID's: bijvoorbeeld `m2-2-1-01` voor een fiche en `m2-2-1-01-check-v1` voor een vraag. Nummering alleen is geen garantie op dezelfde betekenis. Bij een wezenlijk veranderde vraag: maak een nieuwe vraag-ID en bewaar het oude item in een historisch inhoudsarchief. Hergebruik oude ID's nooit voor andere vragen.
+6. Vragen hebben `chapterId`, `lessonId`, `kind`, `prompt`, `choices`, `correct`, `explanation`, `pages`, `difficulty` en `origin`. Single/boolean gebruiken een nulgebaseerde optie-index als string. Multi gebruikt gesorteerde indices gescheiden door `|`. Match gebruikt één index per label in labelvolgorde. Fill gebruikt een tekstantwoord met optionele `accepted`-alternatieven. Voeg voor iedere fiche minstens één objectief toetsbare vraag toe. Controleer juistheid en dubbelzinnige afleiders inhoudelijk.
+7. Registreer de module in het bestaande slot in `src/content/index.ts`. De indexen voor hoofdstukken, vragen, lessen en bronnen worden opnieuw opgebouwd zonder de oude gegevens te wissen. Voeg geen nieuw opslagprefix toe. Behoud de bestaande sleutels in `src/lib/storage.ts`.
+8. Breid het bron-/dekkingsoverzicht uit zodat elke geüploade module haar eigen PDF, volledige paginateksten en inhoudsbeperkingen heeft. De huidige broncontrole is specifiek voor module 1. Algemene leer-, oefen-, examen- en statistiekfuncties lezen alle geregistreerde modules; broncontroles en specifieke leemten moeten bij elke nieuwe bron inhoudelijk worden bijgewerkt. Controleer ook teksten over aantallen en de volgende aanbevolen module.
+9. Verhoog `contentVersion` voor de betreffende module. Verander `schemaVersion` van voortgang uitsluitend wanneer het opgeslagen gegevensmodel wijzigt. Maak dan een geteste migratie die oude velden en onbekende historische ID's bewaart. Publiceer bij louter nieuwe inhoud geen leeg of nieuw voortgangsbestand.
+10. Breid `scripts/check-content.mjs` uit met de verwachte aantallen, checksums, pagina- en vraagcontrole van de nieuwe PDF. `scripts/ingest_module1.py` en `scripts/add-editorial.py` horen uitsluitend bij de huidige module-1-bron; voer die niet blind uit voor een nieuwe editie.
+11. Draai `pnpm check` en `pnpm build`. Test in een afzonderlijk browserprofiel of op een testadres: herstellen van een echte geanonimiseerde back-up, module-1-resultaten vóór/na, nieuwe lessen, bronlinks naar de juiste module, examens, automatische tijdslimiet en mobiele weergave. Testdata horen niet in de productieopslag.
+12. Push de bronwijzigingen naar `main` in dezelfde GitHub-repository. De GitHub Actions-workflow publiceert de nieuwe `dist/` op hetzelfde Pages-adres. Als publicatie geblokkeerd is, lever de lokale werkende versie en leg de resterende publicatiestap uit. Maak geen nieuwe repository of Pages-locatie als vervanging.
+
+## Gegevensmigratie
+
+Het formaat is `verzekeringen-leeratelier-backup`, met een `state` van versie 3. De importer aanvaardt ook de ondersteunde oudere versies 1 en 2. Import valideert de structuur vóór opslaan en toont aantallen. Samenvoegen bewaart unieke pogingen en examens op ID en combineert gelezen lessen. Er worden geen resultaten aan nieuwe vraag-ID's toegeschreven.
+
+Behoud voor een hernummerde fiche een expliciete oud-naar-nieuw-tabel als de betekenis aantoonbaar hetzelfde is; test die mapping. Als equivalentie niet vaststaat, behoud het oude resultaat in het archief en begin de nieuwe vraag afzonderlijk. Laat de gebruiker vóór een migratie exporteren. Wis lokale browseropslag nooit als implementatiestap.
+
+## Naar accounts en een database
+
+Behoud het contentmodel en de leerregels. Vervang de opslagtoegang door een repository met gebruikersgebonden records, asynchrone transacties en conflictbehandeling. Gebruik attempt- en exam-ID's voor idempotente inserts. Herhalingen moeten per vraag op de laatste beantwoordtijd worden samengevoegd. Migreer lokale voortgang pas na zichtbare accountkoppeling en een back-up; claim geen synchronisatie voordat upload én download zijn bevestigd.

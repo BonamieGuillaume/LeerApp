@@ -1,0 +1,30 @@
+{
+  "name": "verzekeringen-leeratelier",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "tsc -b && vite build && node scripts/build-pwa.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 5173 --strictPort",
+    "check:content": "node scripts/check-content.mjs",
+    "test": "node scripts/test.mjs",
+    "check": "node scripts/check-content.mjs && node scripts/test.mjs && tsc -b",
+    "check:pwa": "node --test scripts/pwa.test.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.6.3",
+    "vite": "^6.0.5"
+  }
+}
